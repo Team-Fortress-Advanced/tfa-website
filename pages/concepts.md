@@ -1,3 +1,8 @@
+---
+layout: default
+title: Concepts
+---
+
 # Take a look at these concepts!
 
 ## Nail Grenade
